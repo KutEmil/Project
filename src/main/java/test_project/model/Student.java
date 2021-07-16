@@ -1,16 +1,5 @@
 package test_project.model;
 
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.Serializable;
-import java.io.StringWriter;
-import java.util.HashMap;
-import java.util.Map;
-
-import org.yaml.snakeyaml.Yaml;
-
 public class Student {
 
 	private String name;
