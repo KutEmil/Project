@@ -47,7 +47,6 @@ public class Student {
 	public void setCourse(int course) {
 		this.course = course;
 	}
-
 	@Override
 	public String toString() {
 		return "Student [name=" + name + ", sex=" + sex + ", age=" + age + ", course=" + course + "]";
